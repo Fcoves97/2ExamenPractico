@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">2doexamenPacoCovesGarcia</string>
-    <string name="seleccionopcion">Selecciona la opción:</string>
-    <string name="btncompra">COMPRA</string>
-    <string name="btndetalles">DETALLES</string>
+    <string name="tvSelección">Selecciona la opción:</string>
+    <string name="btnCompra">COMPRA</string>
+    <string name="btnDetalles">DETALLES</string>
+    <string name="btnFacturar">FACTURAR</string>
 </resources>
