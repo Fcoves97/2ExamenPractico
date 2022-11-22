@@ -7,4 +7,10 @@
     <string name="ptnPrecio">Precio</string>
     <string name="ptnCantidad">Cantidad</string>
     <string name="btnTotal">VER TOTAL</string>
+    <string name="tvNombrePelicula">Frozen</string>
+    <string name="tvDescripcionpelicula">October 2018 PG 164 minutes</string>
+    <string name="btnRent">RENT FROM R29,99</string>
+    <string name="btnBuy">BUY FROM R127,99</string>
+    <string name="tvRatings">520 ratings</string>
+    <string name="tvFamily">Family</string>
 </resources>
