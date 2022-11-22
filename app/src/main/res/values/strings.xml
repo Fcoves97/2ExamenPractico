@@ -4,4 +4,7 @@
     <string name="btnCompra">COMPRA</string>
     <string name="btnDetalles">DETALLES</string>
     <string name="btnFacturar">FACTURAR</string>
+    <string name="ptnPrecio">Precio</string>
+    <string name="ptnCantidad">Cantidad</string>
+    <string name="btnTotal">VER TOTAL</string>
 </resources>
